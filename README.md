@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on being a full-stack Javascript Engineer <br>👯 I’m looking to collaborate on a SaaS Product.<br>🤝 I’m looking for help with infrastructure and design patterns.<br>🌱 I’m currently learning nodeJs<br>💬 Ask me about Full stack.<br>⚡ Fun fact: It's easy to win. All you need is to be in control.
+🔭 I’m currently working on being a full-stack Engineer <br>👯 I’m looking to collaborate on projects that will challenge me.<br>🤝 I’m looking for help with infrastructure and design patterns.<br>🌱 I’m currently learning Flask<br>💬 Ask me about Full stack.<br>⚡ Fun fact: It's easy to win. All you need is Desire Backed by Faith.
 
 
 ## 🌐 Socials:
