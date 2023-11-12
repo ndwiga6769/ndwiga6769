@@ -2,17 +2,17 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
+  <img src="https://profile-counter.glitch.me/ndwiga6769/count.svg" />
 </p>
-<h3 align="center">A Full Stack Blockchain Developer .</h3>
+<h3 align="center">A Full Stack Software Developer .</h3>
 
-<h3 align="center"> 🌱 I’m building swypt.io</h3>
+<h3 align="center"> 🌱 I’m building on my SkillSet</h3>
 
-<h3 align="center"> 💬 Ask me about Solidity and NextJS</h3>
+<h3 align="center"> 💬 Ask me about React.js and Flask.js</h3>
 
-<h3 align="center"> 📫 How to reach me rodgersomondi8399@gmail.com</h3>
+<h3 align="center"> 📫 Reach me at danwycliff6769@gmail.com </h3>
 
- <h3 align="center">⚡ I want to impact the lives of others using code.</h3>
+ <h3 align="center">⚡ I want to impact the lives of others. </h3>
  
 <h3 align="center">Connect with me: <p>
 <a href="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
@@ -26,14 +26,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/omondi8399"><img alt="Rodgers' Github Stats" src="https://github-readme-stats.vercel.app/api?username=omondi8399&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+      <a href="https://github.com/ndwiga6769"><img alt="Rodgers' Github Stats" src="https://github-readme-stats.vercel.app/api?username=ndwiga6769&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
     </td>
     <td>
-       <a href="http://www.github.com/omondi8399"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omondi8399&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/ndwiga6769"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndwiga6769&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     </td>
     <td>
-      <a align="center" href="https://github.com/omondi8399"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omondi8399&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a align="center" href="https://github.com/ndwiga6769"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndwiga6769&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
   <tr>
