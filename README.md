@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ndwiga6769"><img alt="Rodgers' Github Stats" src="https://github-readme-stats.vercel.app/api?username=ndwiga6769&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+      <a href="https://github.com/ndwiga6769"><img alt="Danwycliff' Github Stats" src="https://github-readme-stats.vercel.app/api?username=ndwiga6769&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
     </td>
     <td>
        <a href="http://www.github.com/ndwiga6769"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndwiga6769&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
