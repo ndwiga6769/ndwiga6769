@@ -34,7 +34,7 @@
 Here are some of the projects I have been working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndwiga6769&repo=e-commerce-app&theme=github_dark_dimmed&hide_border=false)](https://github.com/ndwiga6769/e-commerce-app) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndwiga6769&repo=Movie-review-app&theme=github_dark_dimmed&hide_border=true)](https://github.com/ndwiga6769/Movie-review-app)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
