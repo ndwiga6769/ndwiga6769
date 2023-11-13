@@ -28,3 +28,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ndwiga6769&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndwiga6769&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndwiga6769&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Latest Projects 
+
+Here are some of the projects I have been working on recently
+
+[![Readme Card](mopemada.netlify.app/)](https://github.com/ndwiga6769/e-commerce-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
