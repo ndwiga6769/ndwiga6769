@@ -12,7 +12,7 @@
 
 <h3 align="center"> 📫 Reach me at danwycliff6769@gmail.com </h3>
 
- <h3 align="center">⚡ I want to impact the lives of others. </h3>
+ <h3 align="center">⚡ I want to positively impact the lives of others in whatever I do. </h3>
  
 <h3 align="center">Connect with me: <p>
 <a href="https://twitter.com/ndwiga_njoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ndwiga_njoka" height="30" width="40" /></a>
