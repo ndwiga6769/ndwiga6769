@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ndwiga6769/count.svg" />
 </p>
-<h3 align="center">A Full Stack Software Developer .</h3>
+<h3 align="center">A Dedicated Full Stack Software Developer .</h3>
 
 <h3 align="center"> 🌱 I’m actively building on my SkillSet</h3>
 
