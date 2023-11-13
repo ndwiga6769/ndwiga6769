@@ -93,25 +93,25 @@
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="36" height="36" alt="TailwindCSS" />
         </a>
         <p align="center">Tailwind</p>
       </p>
     </td>
     <td>            
       <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+        <a href="https://MYSQL.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/MYSQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white"  height="30" alt="MYSQL" />
       </a>
-        <p align="center">NodeJS</p>
+        <p align="center">MYSQL</p>
       </p>
     </td>
     <td>           
       <p align="center">
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
         </a>
-        <p align="center">ExpressJS</p>
+        <p align="center">Postman</p>
       </p>
     </td>
   </tr>
@@ -119,10 +119,10 @@
   <tr>
     <td>             
       <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+        <a href="https://www.flask.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30" />
         </a>
-        <p align="center">MongoDB</p>
+        <p align="center">Flask</p>
       </p>
     </td>
     <td>
@@ -135,36 +135,10 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
+        <a href="https://www.python.com/uk/products/xd.html" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
       </a>
-        <p align="center">Adobe XD</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-          </a>
-        <p align="center">Firebase</p>
-      </p>      
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-        </a>
-        <p align="center">Figma</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-      </a>
-        <p align="center">SASS</p>
+        <p align="center">Python</p>
       </p>
     </td>
   </tr>
