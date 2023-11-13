@@ -31,8 +31,7 @@
 
 ### Latest Projects 
 
-Here are some of the projects I have been working on recently
+Here are some of the projects I have been working on
 
-[![Readme Card](mopemada.netlify.app/)](https://github.com/ndwiga6769/e-commerce-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndwiga6769&repo=e-commerce-app&theme=github_dark_dimmed&hide_border=false)](https://github.com/ndwiga6769/e-commerce-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
