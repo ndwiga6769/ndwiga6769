@@ -3,20 +3,25 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ndwiga6769/count.svg" />
+  <h1 align="center">Hello 👋, I'm Danwycliff</h1>
 </p>
-<h3 align="center">A Dedicated Full Stack Software Developer .</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJiN3FwY3AwbnZsZWxtNzRxcjBzc2M3czZlaWR6Z2M2a29jZWl0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<h2 align="left"> 💻 A  Full Stack Software Developer.</h2>
 
-<h3 align="center"> 🌱 I’m actively building on my SkillSet</h3>
+<h3 align="left"> 🌱 I’m actively building on my SkillSet</h3>
 
-<h3 align="center"> 💬 Ask me about Full Stack software development</h3>
+<h3 align="left"> 💬 Ask me about Full Stack software development</h3>
 
-<h3 align="center"> 📫 Reach me at danwycliff6769@gmail.com </h3>
+<h3 align="left"> 📫 Reach me at danwycliff6769@gmail.com </h3>
 
- <h3 align="center">⚡ I want to positively impact the lives of others in whatever I do. </h3>
+ <h3 align="left">⚡ I want to positively impact others in whatever I do. </h3>
  
-<h3 align="center">Connect with me via: <p>
-<a href="https://twitter.com/ndwiga_njoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ndwiga_njoka" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/danwycliff-njoka-801a72236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danwycliff-njoka-801a72236" height="30" width="40" /></a>
+ 
+<h3 align="left">Connect with me via: <p>
+<a href="https://twitter.com/ndwiga_njoka" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ndwiga_njoka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danwycliff-njoka-801a72236" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danwycliff-njoka-801a72236" height="30" width="40" /></a>
+  <a href="https://instagram.com/ndwiganjoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndwiganjoka" height="30" width="40" /></a>
+
 </p>
 </h3>
 
