@@ -14,7 +14,7 @@
 
  <h3 align="center">⚡ I want to positively impact the lives of others in whatever I do. </h3>
  
-<h3 align="center">Connect with me: <p>
+<h3 align="center">Connect with me via: <p>
 <a href="https://twitter.com/ndwiga_njoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ndwiga_njoka" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/danwycliff-njoka-801a72236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danwycliff-njoka-801a72236" height="30" width="40" /></a>
 </p>
