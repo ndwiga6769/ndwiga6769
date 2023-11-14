@@ -43,7 +43,8 @@ Here are some of the projects I have been working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndwiga6769&repo=Movie-review-app&theme=github_dark_dimmed&hide_border=true)](https://github.com/ndwiga6769/Movie-review-app)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ###  Random Dev Meme😅 
 <img src='https://randommeme-five.vercel.app/'  style="height: 400px;"/>
