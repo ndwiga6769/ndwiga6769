@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/ndwiga6769">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndwiga6769&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
   </a>
 </p>
 <!--
