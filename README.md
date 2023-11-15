@@ -32,7 +32,45 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ndwiga6769&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndwiga6769&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndwiga6769&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndwiga6769&theme=merko&hide_border=false&include_all_commits=true&count_private=true
+
+<!-- <p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>-->
+
+| <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombito&show_icons=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Alvin's github stats" /></a> | <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombito&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  /></a> |
+| ------------- | ------------- |
+
+
+<p align="center">
+  <a href="https://github.com/Ombito">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
+  </a>
+</p>
+<!--
+<div style="display: flex; flex-wrap: wrap;">
+  <img style="height: 200px; width="100px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en&layout=compact" alt="efgh" />
+  <img style="height: 200px; width="100px;" src="https://github-readme-stats.vercel.app/api?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en" alt="efgh" />
+</div>
+-->
+
+<!--<p align="center">
+  <a href="https://github.com/Ombito">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ombito&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+<a> 
+    <a href="https://github.com/Ombito"><img alt="Alvin Ombito's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ombito&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/Ombito"><img alt="Alvin Ombito's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ombito&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+</a>
+
+-->
+
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"&show_icons=true&locale=en&layout=compact" alt="efgh" //></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"&show_icons=true&locale=en" alt="efgh" /></p>-->
+
 
 
 ### My Projects 
@@ -48,3 +86,5 @@ Here are some of the projects I have been working on
 
 ###  Random Dev Meme😅 
 <img src='https://randommeme-five.vercel.app/'  style="height: 400px;"/>
+
+![ndwiga6769 Graph](https://github-readme-activity-graph.vercel.app/graph?username=ndwiga6769&custom_title=ndwiga6769%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
