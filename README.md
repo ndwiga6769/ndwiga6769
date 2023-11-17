@@ -10,11 +10,11 @@
 
 <h3 align="left"> 🌱 I’m actively building on my SkillSet.</h3>
 
-<h3 align="left"> 💬 Ask me about Full Stack software development</h3>
+<h3 align="left"> 💬 Ask me about Full Stack software development.</h3>
 
-<h3 align="left"> 📫 Reach me at danwycliff6769@gmail.com </h3>
+<h3 align="left"> 📫 Reach me at danwycliff6769@gmail.com.</h3>
 
- <h3 align="left">⚡ I want to positively impact others in whatever I do. </h3>
+ <h3 align="left">⚡ I want to positively impact others in whatever I do.</h3>
  
  
 <h3 align="left">Connect with me via: <p>
