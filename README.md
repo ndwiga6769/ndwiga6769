@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJiN3FwY3AwbnZsZWxtNzRxcjBzc2M3czZlaWR6Z2M2a29jZWl0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <h2 align="left"> 💻 A  Full Stack Software Developer.</h2>
 
-<h3 align="left"> 🌱 I’m actively building on my SkillSet</h3>
+<h3 align="left"> 🌱 I’m actively building on my SkillSet.</h3>
 
 <h3 align="left"> 💬 Ask me about Full Stack software development</h3>
 
