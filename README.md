@@ -1,8 +1,13 @@
 <h1 align="center"><img src="./name.svg" ></h1>
 
+
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ndwiga6769/count.svg" />
+  <img src="https://profile-counter.glitch.me/ndwiga6769/count.svg" /> </br>
+   <a align="center" href="https://portfolio-website-opal-two.vercel.app/" target="blank" >
+  <img align="center" src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Danwycliff" />
+ </a>
   <h1 align="center">Hello 👋, I'm Danwycliff</h1>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJiN3FwY3AwbnZsZWxtNzRxcjBzc2M3czZlaWR6Z2M2a29jZWl0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
