@@ -61,4 +61,4 @@ Here are some of the projects I have been working on
 ###  Random Dev Meme😅 
 <img src='https://randommeme-five.vercel.app/'  style="height: 400px;"/>
 
-![ndwiga6769 Graph](https://github-readme-activity-graph.vercel.app/graph?username=ndwiga6769&custom_title=ndwiga6769%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!-- ![ndwiga6769 Graph](https://github-readme-activity-graph.vercel.app/graph?username=ndwiga6769&custom_title=ndwiga6769%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
